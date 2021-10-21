@@ -1,5 +1,5 @@
 <template>
-  <v-container fluid grid-list-lg text-lg-left mt-5>
+  <v-container >
     <h1 class="mb-5 text-center" >Calendario de cotización del dolar en Chile</h1>
     <v-row align-center justify-start>
       <v-col>
